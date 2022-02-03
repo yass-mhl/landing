@@ -1,9 +1,11 @@
 .banner {
-  background-image: url("https://source.unsplash.com/hOuJYX2K5DA/1600x900");
+  background-image: url("https://source.unsplash.com/hOuJYX2K5DA");
   background-size: cover;
   background-position: center;
   padding: 200px 0;
+  text-align: center;
 }
+
 
 .banner h1 {
   color: white;

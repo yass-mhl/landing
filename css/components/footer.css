@@ -16,3 +16,9 @@
 .footer .fas {
   color: #BF0F12;
 }
+
+@media (max-width: 960px) {
+  .footer {
+    margin-top: 0;
+  }
+}
